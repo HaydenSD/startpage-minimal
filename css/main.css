@@ -2,3 +2,22 @@ html, body {
   /*background-color: #2d2d2d;*/
   background-color: #5c616c;
 }
+
+#inputs {
+    margin-top: 30%;
+    margin-left: 40%;
+    margin-right: 50%;
+    background-color: #757c8a;
+    border-color: #757c8a;
+    font-family: 'Space Mono', monospace;
+}
+
+#inputs div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+#inputs .input-group .btn .fa{
+    width: 1em;
+}

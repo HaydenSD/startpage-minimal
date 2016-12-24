@@ -1,3 +1,8 @@
+$(document).ready(
+  $('#input').hide();
+)
+
+
 $(document).keydown(function(e){
   if(e.which == 68) {
     window.location.replace("https://democracynow.org");
